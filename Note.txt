@@ -1,0 +1,6 @@
+Log-in information for admin account is :-
+    Full name: admin
+    Account number: 99999
+    Last 4 digits of IC: 0
+
+Final build with file saving system was compiled and runned using Microsoft Visual Studio 2015 due to Code::Blocks's MinGW compiler not supporting "stof" and "stoi".
